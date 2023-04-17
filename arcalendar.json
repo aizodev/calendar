@@ -78,32 +78,7 @@
 "https://i.ibb.co/qy9kFnQ/Months11.png"],
       "name" : "EGYPT Calendar"
     }},
-    {"ALGERIA" : {
-      "image" : [ null, "https://i.ibb.co/RPT6hmN/AZ01.png",
-"https://i.ibb.co/D5tyzWX/AZ02.png",
-"https://i.ibb.co/x6gHMSP/AZ03.png",
-"https://i.ibb.co/yPFPBJq/AZ04.png",
-"https://i.ibb.co/Rykd43X/AZ05.png",
-"https://i.ibb.co/SRsbBgk/AZ06.png",
-"https://i.ibb.co/mSLFV4n/AZ07.png",
-"https://i.ibb.co/rkkGQ1k/AZ08.png",
-"https://i.ibb.co/qJwV34k/AZ09.png",
-"https://i.ibb.co/9TdfSQ8/AZ10.png",
-"https://i.ibb.co/6Rmrgcy/EG11.png",
-"https://i.ibb.co/DD3NrJw/AZ12.png"],
-      "logo" : ["https://i.ibb.co/V3g5sQ2/Months1.png",
-"https://i.ibb.co/J2D2jyX/Months2.png",
-"https://i.ibb.co/hDHPKdR/Months3.png",
-"https://i.ibb.co/j5RdjgN/Months4.png",
-"https://i.ibb.co/TYtnVt7/Months5.png",
-"https://i.ibb.co/rsZmJpV/Months6.png",
-"https://i.ibb.co/3vt7ktV/Months7.png",
-"https://i.ibb.co/4Z6DNmW/Months8.png",
-"https://i.ibb.co/HBJdhLg/Months9.png",
-"https://i.ibb.co/h95cBtb/Months10.png",
-"https://i.ibb.co/qy9kFnQ/Months11.png"],
-      "name" : "ALGERIA Calendar"
-    }},
+    
     {"MOROCCO" : {
       "image" : [ null, "https://i.ibb.co/bzF9qqw/MA01.png",
 "https://i.ibb.co/LgY2rNq/MA02.png"
