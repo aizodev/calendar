@@ -1,0 +1,150 @@
+{
+  "Categories" : [
+    {"SA" : {
+      "image" : [ null, "https://i.ibb.co/Ry4prNW/SA01.png",
+"https://i.ibb.co/wB0RMdD/SA02.png",
+"https://i.ibb.co/0sxdC52/SA03.png",
+"https://i.ibb.co/sRhpZ7W/SA04.png",
+"https://i.ibb.co/tPTXbNn/SA05.png",
+"https://i.ibb.co/2dbFfdr/SA06.png",
+"https://i.ibb.co/RHSTKzN/SA07.png",
+"https://i.ibb.co/PCzdQZY/SA08.png",
+"https://i.ibb.co/2g2ZbcR/SA09.png",
+"https://i.ibb.co/jvkMx5d/SA10.png",
+"https://i.ibb.co/tQRX9Z1/SA11.png",
+"https://i.ibb.co/jZZ2xjt/SA12.png"],
+      "logo" : ["https://i.ibb.co/V3g5sQ2/Months1.png",
+"https://i.ibb.co/J2D2jyX/Months2.png",
+"https://i.ibb.co/hDHPKdR/Months3.png",
+"https://i.ibb.co/j5RdjgN/Months4.png",
+"https://i.ibb.co/TYtnVt7/Months5.png",
+"https://i.ibb.co/rsZmJpV/Months6.png",
+"https://i.ibb.co/3vt7ktV/Months7.png",
+"https://i.ibb.co/4Z6DNmW/Months8.png",
+"https://i.ibb.co/HBJdhLg/Months9.png",
+"https://i.ibb.co/h95cBtb/Months10.png",
+"https://i.ibb.co/qy9kFnQ/Months11.png"],
+      "name" : "Saudi Calendar"
+    }},
+    {"PALESTINE" : {
+      "image" : [ null, "https://i.ibb.co/ZTyXgpp/PA01.png",
+"https://i.ibb.co/Jc86szX/PA02.png",
+"https://i.ibb.co/D1hLh5z/PA03.png",
+"https://i.ibb.co/0Y4Mnt6/PA04.png",
+"https://i.ibb.co/YDYRB42/PA05.png",
+"https://i.ibb.co/vsdJ3Vt/PA06.png",
+"https://i.ibb.co/smGgYSN/PA07.png",
+"https://i.ibb.co/1rZpxRZ/PA08.png",
+"https://i.ibb.co/cXWSfp9/PA09.png",
+"https://i.ibb.co/xMbzTFg/PA10.png",
+"https://i.ibb.co/kGtWfMv/PA11.png",
+"https://i.ibb.co/2gRxXqT/PA12.png"],
+      "logo" : ["https://i.ibb.co/V3g5sQ2/Months1.png",
+"https://i.ibb.co/J2D2jyX/Months2.png",
+"https://i.ibb.co/hDHPKdR/Months3.png",
+"https://i.ibb.co/j5RdjgN/Months4.png",
+"https://i.ibb.co/TYtnVt7/Months5.png",
+"https://i.ibb.co/rsZmJpV/Months6.png",
+"https://i.ibb.co/3vt7ktV/Months7.png",
+"https://i.ibb.co/4Z6DNmW/Months8.png",
+"https://i.ibb.co/HBJdhLg/Months9.png",
+"https://i.ibb.co/h95cBtb/Months10.png",
+"https://i.ibb.co/qy9kFnQ/Months11.png"],
+      "name" : "Palestine Calendar"
+    }},
+    {"EGYPT" : {
+      "image" : [ null, "https://i.ibb.co/HDzwdYX/EG01.png",
+"https://i.ibb.co/y0ZwVNT/EG02.png",
+"https://i.ibb.co/bXKbyys/EG03.png",
+"https://i.ibb.co/yVQTcQX/EG04.png",
+"https://i.ibb.co/RB0Js5G/EG05.png",
+"https://i.ibb.co/dLJn7sd/EG06.png",
+"https://i.ibb.co/wN1sN34/EG07.png",
+"https://i.ibb.co/fXg9GDF/EG08.png",
+"https://i.ibb.co/1LLYqV5/EG09.png",
+"https://i.ibb.co/6Hr5Zvm/EG10.png",
+"https://i.ibb.co/6Rmrgcy/EG11.png",
+"https://i.ibb.co/QF47B4q/EG12.png"],
+      "logo" : ["https://i.ibb.co/V3g5sQ2/Months1.png",
+"https://i.ibb.co/J2D2jyX/Months2.png",
+"https://i.ibb.co/hDHPKdR/Months3.png",
+"https://i.ibb.co/j5RdjgN/Months4.png",
+"https://i.ibb.co/TYtnVt7/Months5.png",
+"https://i.ibb.co/rsZmJpV/Months6.png",
+"https://i.ibb.co/3vt7ktV/Months7.png",
+"https://i.ibb.co/4Z6DNmW/Months8.png",
+"https://i.ibb.co/HBJdhLg/Months9.png",
+"https://i.ibb.co/h95cBtb/Months10.png",
+"https://i.ibb.co/qy9kFnQ/Months11.png"],
+      "name" : "EGYPT Calendar"
+    }},
+    {"ALGERIA" : {
+      "image" : [ null, "https://i.ibb.co/RPT6hmN/AZ01.png",
+"https://i.ibb.co/D5tyzWX/AZ02.png",
+"https://i.ibb.co/x6gHMSP/AZ03.png",
+"https://i.ibb.co/yPFPBJq/AZ04.png",
+"https://i.ibb.co/Rykd43X/AZ05.png",
+"https://i.ibb.co/SRsbBgk/AZ06.png",
+"https://i.ibb.co/mSLFV4n/AZ07.png",
+"https://i.ibb.co/rkkGQ1k/AZ08.png",
+"https://i.ibb.co/qJwV34k/AZ09.png",
+"https://i.ibb.co/9TdfSQ8/AZ10.png",
+"https://i.ibb.co/6Rmrgcy/EG11.png",
+"https://i.ibb.co/DD3NrJw/AZ12.png"],
+      "logo" : ["https://i.ibb.co/V3g5sQ2/Months1.png",
+"https://i.ibb.co/J2D2jyX/Months2.png",
+"https://i.ibb.co/hDHPKdR/Months3.png",
+"https://i.ibb.co/j5RdjgN/Months4.png",
+"https://i.ibb.co/TYtnVt7/Months5.png",
+"https://i.ibb.co/rsZmJpV/Months6.png",
+"https://i.ibb.co/3vt7ktV/Months7.png",
+"https://i.ibb.co/4Z6DNmW/Months8.png",
+"https://i.ibb.co/HBJdhLg/Months9.png",
+"https://i.ibb.co/h95cBtb/Months10.png",
+"https://i.ibb.co/qy9kFnQ/Months11.png"],
+      "name" : "ALGERIA Calendar"
+    }},
+    {"MOROCCO" : {
+      "image" : [ null, "https://i.ibb.co/bzF9qqw/MA01.png",
+"https://i.ibb.co/LgY2rNq/MA02.png"
+"https://i.ibb.co/VJBGtp6/MA03.png"
+"https://i.ibb.co/FwrqYdM/MA04.png"
+"https://i.ibb.co/fpV7sSg/MA05.png"
+"https://i.ibb.co/VtxfgG5/MA06.png"
+"https://i.ibb.co/887JRFY/MA07.png"
+"https://i.ibb.co/Y8020Tp/MA08.png"
+"https://i.ibb.co/R4KBbFB/MA09.png"
+"https://i.ibb.co/7ptYVr6/MA10.png"
+"https://i.ibb.co/DRQkCdh/MA11.png"
+"https://i.ibb.co/TtW3X4p/MA12.png"],
+      "logo" : ["https://i.ibb.co/V3g5sQ2/Months1.png",
+"https://i.ibb.co/J2D2jyX/Months2.png",
+"https://i.ibb.co/hDHPKdR/Months3.png",
+"https://i.ibb.co/j5RdjgN/Months4.png",
+"https://i.ibb.co/TYtnVt7/Months5.png",
+"https://i.ibb.co/rsZmJpV/Months6.png",
+"https://i.ibb.co/3vt7ktV/Months7.png",
+"https://i.ibb.co/4Z6DNmW/Months8.png",
+"https://i.ibb.co/HBJdhLg/Months9.png",
+"https://i.ibb.co/h95cBtb/Months10.png",
+"https://i.ibb.co/qy9kFnQ/Months11.png"],
+      "name" : "MOROCCO Calendar"
+    }}
+  ],
+  
+  "Ads" : {
+    "Fan_inter" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    
+    "admob_pub" : "pub-3940256099942544",
+    "admob_app_id" : "ca-app-pub-3940256099942544~3347511713",
+    "admob_banner" : "ca-app-pub-3940256099942544/6300978111",
+    "admob_inter" : "ca-app-pub-3940256099942544/1033173712",
+    "admob_AppOpen" : "ca-app-pub-3940256099942544/3419835294",
+    
+    "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+    "admob_reward" : "ca-app-pub-3940256099942544/5224354917",
+    
+     "ONESIGNAL_APP_ID" : "calendar_notification"
+    
+  }
+}
