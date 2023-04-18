@@ -1,6 +1,6 @@
 {
   "Categories" : [
-    {"UK" : {
+    {"SA" : {
       "image" : [ null, "https://i.ibb.co/Ry4prNW/SA01.png",
 "https://i.ibb.co/wB0RMdD/SA02.png",
 "https://i.ibb.co/0sxdC52/SA03.png",
@@ -25,9 +25,9 @@
 "https://i.ibb.co/gy25qV7/Months10.png",
 "https://i.ibb.co/0J3sCz0/Months11.png",
 "https://i.ibb.co/YbYB9zJ/Months12.png"],
-      "name" : "UK Calendar"
+      "name" : "Saudi Calendar"
     }},
-    {"USA" : {
+    {"PALESTINE" : {
       "image" : [ null, "https://i.ibb.co/ZTyXgpp/PA01.png",
 "https://i.ibb.co/Jc86szX/PA02.png",
 "https://i.ibb.co/D1hLh5z/PA03.png",
@@ -52,9 +52,9 @@
 "https://i.ibb.co/gy25qV7/Months10.png",
 "https://i.ibb.co/0J3sCz0/Months11.png",
 "https://i.ibb.co/YbYB9zJ/Months12.png"],
-      "name" : "Usa Calendar"
+      "name" : "Palestine Calendar"
     }},
-    {"CANADA" : {
+    {"EGYPT" : {
       "image" : [ null, "https://i.ibb.co/HDzwdYX/EG01.png",
 "https://i.ibb.co/y0ZwVNT/EG02.png",
 "https://i.ibb.co/bXKbyys/EG03.png",
@@ -79,21 +79,21 @@
 "https://i.ibb.co/gy25qV7/Months10.png",
 "https://i.ibb.co/0J3sCz0/Months11.png",
 "https://i.ibb.co/YbYB9zJ/Months12.png"],
-      "name" : "Canada Calendar"
+      "name" : "EGYPT Calendar"
     }},
-    {"AUSTRALI" : {
-      "image" : [ null, "https://i.ibb.co/jW9jbFt/Aus01.png",
-"https://i.ibb.co/3yFxx3g/Aus02.png",
-"https://i.ibb.co/Sf4jYtD/Aus03.png",
-"https://i.ibb.co/4PYrkj8/Aus04.png",
-"https://i.ibb.co/fGGBGvf/Aus05.png",
-"https://i.ibb.co/sQG0FpH/AUS06.png",
-"https://i.ibb.co/bNFTRwp/Aus07.png",
-"https://i.ibb.co/WKcHKCH/Aus08.png",
-"https://i.ibb.co/Vvp5bnP/Aus09.png",
-"https://i.ibb.co/bR2VXZr/Aus10.png",
-"https://i.ibb.co/sV5gsq2/Aus11.png",
-"https://i.ibb.co/0KSpWGN/Aus12.png"],
+    {"ALGERIA" : {
+      "image" : [ null, "https://i.ibb.co/RPT6hmN/AZ01.png",
+"https://i.ibb.co/D5tyzWX/AZ02.png",
+"https://i.ibb.co/x6gHMSP/AZ03.png",
+"https://i.ibb.co/yPFPBJq/AZ04.png",
+"https://i.ibb.co/Rykd43X/AZ05.png",
+"https://i.ibb.co/SRsbBgk/AZ06.png",
+"https://i.ibb.co/mSLFV4n/AZ07.png",
+"https://i.ibb.co/rkkGQ1k/AZ08.png",
+"https://i.ibb.co/qJwV34k/AZ09.png",
+"https://i.ibb.co/9TdfSQ8/AZ10.png",
+"https://i.ibb.co/6Rmrgcy/EG11.png",
+"https://i.ibb.co/DD3NrJw/AZ12.png"],
       "logo" : ["https://i.ibb.co/JdpgnnP/Months1.png",
 "https://i.ibb.co/kSmhgcR/Months2.png",
 "https://i.ibb.co/yS2ZXQF/Months3.png",
@@ -106,7 +106,34 @@
 "https://i.ibb.co/gy25qV7/Months10.png",
 "https://i.ibb.co/0J3sCz0/Months11.png",
 "https://i.ibb.co/YbYB9zJ/Months12.png"],
-      "name" : "Australia Calendar"
+      "name" : "ALGERIA Calendar"
+    }},
+    {"MOROCCO" : {
+      "image" : [ null, "https://i.ibb.co/bzF9qqw/MA01.png",
+"https://i.ibb.co/LgY2rNq/MA02.png",
+"https://i.ibb.co/VJBGtp6/MA03.png",
+"https://i.ibb.co/FwrqYdM/MA04.png",
+"https://i.ibb.co/fpV7sSg/MA05.png",
+"https://i.ibb.co/VtxfgG5/MA06.png",
+"https://i.ibb.co/887JRFY/MA07.png",
+"https://i.ibb.co/Y8020Tp/MA08.png",
+"https://i.ibb.co/R4KBbFB/MA09.png",
+"https://i.ibb.co/7ptYVr6/MA10.png",
+"https://i.ibb.co/DRQkCdh/MA11.png",
+"https://i.ibb.co/TtW3X4p/MA12.png"],
+      "logo" : ["https://i.ibb.co/JdpgnnP/Months1.png",
+"https://i.ibb.co/kSmhgcR/Months2.png",
+"https://i.ibb.co/yS2ZXQF/Months3.png",
+"https://i.ibb.co/jwjdQmp/Months4.png",
+"https://i.ibb.co/LPgmb22/Months5.png",
+"https://i.ibb.co/KGRXhWg/Months6.png",
+"https://i.ibb.co/6BYr6X1/Months7.png",
+"https://i.ibb.co/6Jf3KZs/Months8.png",
+"https://i.ibb.co/VNrr0K8/Months9.png",
+"https://i.ibb.co/gy25qV7/Months10.png",
+"https://i.ibb.co/0J3sCz0/Months11.png",
+"https://i.ibb.co/YbYB9zJ/Months12.png"],
+      "name" : "MOROCCO Calendar"
     }}
   ],
   
