@@ -1,6 +1,6 @@
 {
   "Categories" : [
-    {"SA" : {
+    {"السعودية" : {
       "image" : [ null, "https://i.ibb.co/Ry4prNW/SA01.png",
 "https://i.ibb.co/wB0RMdD/SA02.png",
 "https://i.ibb.co/0sxdC52/SA03.png",
@@ -27,7 +27,7 @@
 "https://i.ibb.co/YbYB9zJ/Months12.png"],
       "name" : "Saudi Calendar"
     }},
-    {"PALESTINE" : {
+    {"فلسطين" : {
       "image" : [ null, "https://i.ibb.co/ZTyXgpp/PA01.png",
 "https://i.ibb.co/Jc86szX/PA02.png",
 "https://i.ibb.co/D1hLh5z/PA03.png",
@@ -54,7 +54,7 @@
 "https://i.ibb.co/YbYB9zJ/Months12.png"],
       "name" : "Palestine Calendar"
     }},
-    {"EGYPT" : {
+    {"مصر" : {
       "image" : [ null, "https://i.ibb.co/HDzwdYX/EG01.png",
 "https://i.ibb.co/y0ZwVNT/EG02.png",
 "https://i.ibb.co/bXKbyys/EG03.png",
@@ -106,9 +106,9 @@
 "https://i.ibb.co/gy25qV7/Months10.png",
 "https://i.ibb.co/0J3sCz0/Months11.png",
 "https://i.ibb.co/YbYB9zJ/Months12.png"],
-      "name" : "الجزائر Calendar"
+      "name" : "َALGERIA Calendar"
     }},
-    {"MOROCCO" : {
+    {"المغرب" : {
       "image" : [ null, "https://i.ibb.co/bzF9qqw/MA01.png",
 "https://i.ibb.co/LgY2rNq/MA02.png",
 "https://i.ibb.co/VJBGtp6/MA03.png",
