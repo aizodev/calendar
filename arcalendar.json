@@ -81,7 +81,7 @@
 "https://i.ibb.co/YbYB9zJ/Months12.png"],
       "name" : "EGYPT Calendar"
     }},
-    {"ALGERIA" : {
+    {"الجزائر" : {
       "image" : [ null, "https://i.ibb.co/RPT6hmN/AZ01.png",
 "https://i.ibb.co/D5tyzWX/AZ02.png",
 "https://i.ibb.co/x6gHMSP/AZ03.png",
@@ -106,7 +106,7 @@
 "https://i.ibb.co/gy25qV7/Months10.png",
 "https://i.ibb.co/0J3sCz0/Months11.png",
 "https://i.ibb.co/YbYB9zJ/Months12.png"],
-      "name" : "ALGERIA Calendar"
+      "name" : "الجزائر Calendar"
     }},
     {"MOROCCO" : {
       "image" : [ null, "https://i.ibb.co/bzF9qqw/MA01.png",
