@@ -113,11 +113,11 @@
   "Ads" : {
     "Fan_inter" : "IMG_16_9_APP_INSTALL",
     
-    "admob_pub" : "pub-5991274820342082",
-    "admob_app_id" : "ca-app-pub-5991274820342082~3922401006",
-    "admob_banner" : "ca-app-pub-5991274820342082/5198672271",
-    "admob_inter" : "ca-app-pub-5991274820342082/5618626059",
-    "admob_AppOpen" : "ca-app-pub-5991274820342082/2406139352",
+    "admob_pub" : "pub-5610148320451642",
+    "admob_app_id" : "ca-app-pub-5610148320451642~4412919852",
+    "admob_banner" : "ca-app-pub-5610148320451642/6133195633",
+    "admob_inter" : "ca-app-pub-5610148320451642/3495461991",
+    "admob_AppOpen" : "ca-app-pub-5610148320451642/3952441770",
     
     "admob_native" : "ca-app-pub-3940256099942544/2247696110",
     "admob_reward" : "ca-app-pub-3940256099942544/5224354917",
