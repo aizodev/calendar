@@ -1,0 +1,49 @@
+{
+  "Categories" : [
+    {"TR" : {
+      "image" : [ null, 
+"https://i.ibb.co/4MYk5n6/Tr01.jpg",
+"https://i.ibb.co/m01FfkL/Tr02.jpg",
+"https://i.ibb.co/TLTxQfd/Tr03.jpg",
+"https://i.ibb.co/NnPRSMx/Tr04.jpg",
+"https://i.ibb.co/kXtxwJ9/Tr05.jpg",
+"https://i.ibb.co/VQDr3ct/Tr06.jpg",
+"https://i.ibb.co/vzB8y7X/Tr07.jpg",
+"https://i.ibb.co/6W0rn1Q/Tr08.jpg",
+"https://i.ibb.co/Fw8QTk7/Tr09.jpg",
+"https://i.ibb.co/DWTM204/Tr10.jpg",
+"https://i.ibb.co/Y72jxYp/Tr11.jpg",
+"https://i.ibb.co/HFp02Ss/Tr12.jpg"
+      ],
+      "logo" : ["https://i.ibb.co/2dV5LN7/Month01.jpg",
+"https://i.ibb.co/Np3LS2j/Month02.jpg",
+"https://i.ibb.co/CH0pJMr/Month03.jpg",
+"https://i.ibb.co/DDq40Pp/Month04.jpg",
+"https://i.ibb.co/gzpMkwk/Month05.jpg",
+"https://i.ibb.co/WW0N6kx/Month06.jpg",
+"https://i.ibb.co/Ky5g4Sb/Month07.jpg",
+"https://i.ibb.co/g4xWxCT/Month08.jpg",
+"https://i.ibb.co/sR5CkmF/Month09.jpg",
+"https://i.ibb.co/P17WW1H/Month10.jpg",
+"https://i.ibb.co/M6TKBTt/Month11.jpg",
+"https://i.ibb.co/HKhLdPZ/Month12.jpg"],
+      "name" : "Tr Calendar"
+    }}
+  ],
+  
+  "Ads" : {
+    "Fan_inter" : "IMG_16_9_APP_INSTALL",
+    
+    "admob_pub" : "pub-5610148320451642",
+    "admob_app_id" : "ca-app-pub-5610148320451642~4412919852",
+    "admob_banner" : "ca-app-pub-5610148320451642/6133195633",
+    "admob_inter" : "ca-app-pub-5610148320451642/3495461991",
+    "admob_AppOpen" : "ca-app-pub-5610148320451642/3952441770",
+    
+    "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+    "admob_reward" : "ca-app-pub-3940256099942544/5224354917",
+    
+     "ONESIGNAL_APP_ID" : "71721713-d1e1-4150-8244-3d203c1a0390"
+    
+  }
+}
