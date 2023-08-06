@@ -1,0 +1,49 @@
+{
+  "Categories" : [
+    {"Indonisia" : {
+      "image" : [ null, 
+"https://i.ibb.co/mhZPK1K/In01.jpg",
+"https://i.ibb.co/pj2nMLk/In02.jpg",
+"https://i.ibb.co/gFhMrZ4/In03.jpg",
+"https://i.ibb.co/x6ygW24/In04.jpg",
+"https://i.ibb.co/yFw4BXv/In05.jpg",
+"https://i.ibb.co/Ry0myDR/In06.jpg",
+"https://i.ibb.co/pzDyX0V/In07.jpg",
+"https://i.ibb.co/9n7sNtr/In08.jpg",
+"https://i.ibb.co/dcKKWrB/In09.jpg",
+"https://i.ibb.co/fd7Z28M/In10.jpg",
+"https://i.ibb.co/rp6rdvQ/In11.jpg",
+"https://i.ibb.co/j8S73M3/In12.jpg"
+      ],
+      "logo" : ["https://i.ibb.co/qpRnvg6/Month01.jpg",
+"https://i.ibb.co/P4QbPm5/Month02.jpg",
+"https://i.ibb.co/WvbBP9Y/Month03.jpg",
+"https://i.ibb.co/597TXX3/Month04.jpg",
+"https://i.ibb.co/LngwpJ4/Month05.jpg",
+"https://i.ibb.co/b3dfLhM/Month06.jpg",
+"https://i.ibb.co/ZXTRTvs/Month07.jpg",
+"https://i.ibb.co/Ms1v5KY/Month08.jpg",
+"https://i.ibb.co/q5JZMYK/Month09.jpg",
+"https://i.ibb.co/t36JfLg/Month10.jpg",
+"https://i.ibb.co/Tq6VhQ1/Month11.jpg",
+"https://i.ibb.co/L0ZckJD/Month12.jpg"],
+      "name" : "Indonisia Calendar"
+    }}
+  ],
+  
+  "Ads" : {
+    "Fan_inter" : "IMG_16_9_APP_INSTALL",
+    
+    "admob_pub" : "pub-5610148320451642",
+    "admob_app_id" : "ca-app-pub-5610148320451642~4412919852",
+    "admob_banner" : "ca-app-pub-5610148320451642/6133195633",
+    "admob_inter" : "ca-app-pub-5610148320451642/3495461991",
+    "admob_AppOpen" : "ca-app-pub-5610148320451642/3952441770",
+    
+    "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+    "admob_reward" : "ca-app-pub-3940256099942544/5224354917",
+    
+     "ONESIGNAL_APP_ID" : "71721713-d1e1-4150-8244-3d203c1a0390"
+    
+  }
+}
