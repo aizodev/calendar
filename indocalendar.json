@@ -35,15 +35,15 @@
     "Fan_inter" : "IMG_16_9_APP_INSTALL",
     
     "admob_pub" : "pub-5610148320451642",
-    "admob_app_id" : "ca-app-pub-5610148320451642~4412919852",
-    "admob_banner" : "ca-app-pub-5610148320451642/6133195633",
-    "admob_inter" : "ca-app-pub-5610148320451642/3495461991",
-    "admob_AppOpen" : "ca-app-pub-5610148320451642/3952441770",
+    "admob_app_id" : "ca-app-pub-5610148320451642~3684558827",
+    "admob_banner" : "ca-app-pub-5610148320451642/9296564882",
+    "admob_inter" : "ca-app-pub-5610148320451642/3057872868",
+    "admob_AppOpen" : "ca-app-pub-5610148320451642/1342053249",
     
-    "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-    "admob_reward" : "ca-app-pub-3940256099942544/5224354917",
+    "admob_native" : "",
+    "admob_reward" : "",
     
-     "ONESIGNAL_APP_ID" : "71721713-d1e1-4150-8244-3d203c1a0390"
+     "ONESIGNAL_APP_ID" : "9a444b33-6b99-4bb0-87c7-9ebb9a216af6"
     
   }
 }
