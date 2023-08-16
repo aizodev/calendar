@@ -146,8 +146,8 @@
     "admob_inter" : "ca-app-pub-5610148320451642/4144013466",
     "admob_AppOpen" : "ca-app-pub-5610148320451642/9665246535",
     
-    "admob_native" : "native",
-    "admob_reward" : "reward",
+    "admob_native" : "",
+    "admob_reward" : "",
     
      "ONESIGNAL_APP_ID" : "c5d9f5e9-2423-4ccb-a6bb-7c64ad5e138d"
     
