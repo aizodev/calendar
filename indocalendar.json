@@ -34,11 +34,11 @@
   "Ads" : {
     "Fan_inter" : "0",
     
-    "admob_pub" : "pub-8616370479044220",
-    "admob_app_id" : "ca-app-pub-8616370479044220~4022987289",
-    "admob_banner" : "ca-app-pub-8616370479044220/9083742273",
-    "admob_inter" : "ca-app-pub-8616370479044220/3907475209",
-    "admob_AppOpen" : "ca-app-pub-8616370479044220/1305362591",
+    "admob_pub" : "0",
+    "admob_app_id" : "0",
+    "admob_banner" : "0",
+    "admob_inter" : "0",
+    "admob_AppOpen" : "0",
     
     "admob_native" : "",
     "admob_reward" : "",
