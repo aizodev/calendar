@@ -140,9 +140,9 @@
   "Ads" : {
     "Fan_inter" : "0",
     
-    "admob_pub" : "0",
-    "admob_app_id" : "0",
-    "admob_banner" : "0",
+    "admob_pub" : "pub-5610148320451642",
+    "admob_app_id" : "ca-app-pub-5610148320451642~5115731628",
+    "admob_banner" : "ca-app-pub-5610148320451642~5115731628",
     "admob_inter" : "0",
     "admob_AppOpen" : "0",
     
