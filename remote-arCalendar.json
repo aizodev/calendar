@@ -136,7 +136,8 @@
       "name" : "MOROCCO Calendar"
     }}
   ],
-  
+    "privacy_policy_url": "https://sites.google.com/view/mycalendardev/home",
+    "contact_us_email": "calendartools@outlook.com",
   "ads": {
     "status": true,
     "main_ads": "facebook",
