@@ -137,19 +137,23 @@
     }}
   ],
   
-  "Ads" : {
-    "Fan_inter" : "0",
-    
-    "admob_pub" : "pub-5610148320451642",
-    "admob_app_id" : "ca-app-pub-5610148320451642~5115731628",
-    "admob_banner" : "ca-app-pub-5610148320451642/4284620044",
-    "admob_inter" : "ca-app-pub-5610148320451642/4460926044",
-    "admob_AppOpen" : "ca-app-pub-5610148320451642/4325194675",
-    
-    "admob_native" : "",
-    "admob_reward" : "",
-    
-     "ONESIGNAL_APP_ID" : "c5d9f5e9-2423-4ccb-a6bb-7c64ad5e138d"
-    
+  "Ads": {
+    "ad_mode": "both",
+    "enable_banner": true,
+    "enable_interstitial": true,
+    "enable_app_open": false,
+    "interstitial_every_n_clicks": 3,
+    "min_seconds_between_interstitials": 120,
+    "admob_pub": "pub-5610148320451642",
+    "admob_app_id": "ca-app-pub-5610148320451642~5115731628",
+    "admob_banner": "ca-app-pub-5610148320451642/4284620044",
+    "admob_inter": "ca-app-pub-5610148320451642/4460926044",
+    "admob_AppOpen": "ca-app-pub-5610148320451642/4325194675",
+    "mediation_banner": "",
+    "mediation_inter": "",
+    "Fan_inter": "0",
+    "ONESIGNAL_APP_ID": "c5d9f5e9-2423-4ccb-a6bb-7c64ad5e138d",
+    "onesignal_enabled": true
   }
+
 }
