@@ -147,7 +147,7 @@
     "enable_native": true,
     "enable_rewarded": true,
     "enable_app_open": false,
-    "interstitial_every_n_clicks": 3,
+    "interstitial_every_n_clicks": 2,
     "min_seconds_between_interstitials": 120,
     "native_home": true,
     "native_menu": true,
