@@ -146,6 +146,15 @@
   {"id":"egypt_revolution","title":"عيد ثورة 23 يوليو","description":"مناسبة وطنية مصرية.","type":"national","countries":["مصر"],"month":7,"day":23},
   {"id":"palestine_independence","title":"ذكرى إعلان استقلال فلسطين","description":"ذكرى إعلان الاستقلال سنة 1988.","type":"national","countries":["فلسطين"],"month":11,"day":15}
 ],
+
+  
+"offline_download": {
+  "enabled": true,
+  "rewarded_required": true,
+  "reward_type": "country_package",
+  "months_per_reward": 12
+},
+
     "privacy_policy_url": "https://sites.google.com/view/mycalendardev/home",
     "contact_us_email": "calendartools@outlook.com",
   "ads": {
