@@ -141,7 +141,7 @@
   "ads": {
     "status": true,
     "main_ads": "facebook",
-    "backup_ads": "admob",
+    "backup_ads": "none",
     "enable_banner": true,
     "enable_interstitial": true,
     "enable_native": true,
