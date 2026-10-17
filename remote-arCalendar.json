@@ -136,6 +136,16 @@
       "name" : "MOROCCO Calendar"
     }}
   ],
+  "events": [
+  {"id":"ramadan_start","title":"بداية شهر رمضان","description":"موعد تقديري؛ يتحدد رسميًا حسب إعلان كل بلد.","type":"islamic","countries":["all"],"hijri_month":9,"hijri_day":1},
+  {"id":"eid_fitr","title":"عيد الفطر","description":"قد يختلف تاريخ العيد رسميًا حسب رؤية الهلال.","type":"islamic","countries":["all"],"hijri_month":10,"hijri_day":1},
+  {"id":"eid_adha","title":"عيد الأضحى","description":"موعد تقديري حتى إعلان الجهات الرسمية.","type":"islamic","countries":["all"],"hijri_month":12,"hijri_day":10},
+  {"id":"morocco_independence","title":"عيد الاستقلال","description":"ذكرى استقلال المغرب.","type":"national","countries":["المغرب"],"month":11,"day":18},
+  {"id":"algeria_revolution","title":"ذكرى الثورة الجزائرية","description":"إحياء ذكرى اندلاع ثورة أول نوفمبر.","type":"national","countries":["الجزائر"],"month":11,"day":1},
+  {"id":"saudi_national","title":"اليوم الوطني السعودي","description":"ذكرى توحيد المملكة العربية السعودية.","type":"national","countries":["السعودية"],"month":9,"day":23},
+  {"id":"egypt_revolution","title":"عيد ثورة 23 يوليو","description":"مناسبة وطنية مصرية.","type":"national","countries":["مصر"],"month":7,"day":23},
+  {"id":"palestine_independence","title":"ذكرى إعلان استقلال فلسطين","description":"ذكرى إعلان الاستقلال سنة 1988.","type":"national","countries":["فلسطين"],"month":11,"day":15}
+],
     "privacy_policy_url": "https://sites.google.com/view/mycalendardev/home",
     "contact_us_email": "calendartools@outlook.com",
   "ads": {
