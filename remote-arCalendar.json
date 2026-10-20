@@ -166,6 +166,8 @@
     "enable_native": true,
     "enable_rewarded": true,
     "enable_app_open": true,
+    "app_open_min_background_seconds": 30,
+    "app_open_min_interval_seconds": 120,
     "interstitial_every_n_clicks": 2,
     "min_seconds_between_interstitials": 120,
     "native_home": true,
