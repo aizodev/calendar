@@ -160,6 +160,8 @@
     "ONESIGNAL_APP_ID": "c5d9f5e9-2423-4ccb-a6bb-7c64ad5e138d",
     "onesignal_enabled": true,
   "ads": {
+    "ONESIGNAL_APP_ID": "c5d9f5e9-2423-4ccb-a6bb-7c64ad5e138d",
+    "onesignal_enabled": true,
     "status": true,
     "main_ads": "admob",
     "backup_ads": "none",
