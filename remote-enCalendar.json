@@ -143,6 +143,8 @@
     "enable_interstitial": true,
     "enable_native": true,
     "enable_rewarded": true,
+    "reward_ad_free_minutes": 10,
+    "banner_mode": "adaptive",
     "enable_app_open": true,
     "app_open_min_background_seconds": 30,
     "app_open_min_interval_seconds": 120,
