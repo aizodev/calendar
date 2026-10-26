@@ -1,0 +1,104 @@
+{
+  "Categories" : [
+    {"FR" : {
+      "image" : [ null, 
+"https://i.ibb.co/x8JSbnWW/fr01.jpg",
+"https://i.ibb.co/5xSD60QT/fr02.jpg",
+"https://i.ibb.co/qLSr8ymh/fr03.jpg",
+"https://i.ibb.co/ks55Jhrb/fr04.jpg",
+"https://i.ibb.co/WvWj97Bb/fr05.jpg",
+"https://i.ibb.co/yc7n049v/fr06.jpg",
+"https://i.ibb.co/4ZVLTPQb/fr07.jpg",
+"https://i.ibb.co/XxKHnn1P/fr08.jpg",
+"https://i.ibb.co/LXxKc2qQ/fr09.jpg",
+"https://i.ibb.co/60yD76rf/fr10.jpg",
+"https://i.ibb.co/zHHWJ3Sx/fr11.jpg",
+"https://i.ibb.co/zhx8R0Kc/fr12.jpg"
+      ],
+      "logo" : ["https://i.ibb.co/TMWHBySQ/Month01.jpg",
+"https://i.ibb.co/JWN6T0s3/Month02.jpg",
+"https://i.ibb.co/gMrZLNQC/Month03.jpg",
+"https://i.ibb.co/nqCKnprp/Month04.jpg",
+"https://i.ibb.co/Jj548xq7/Month05.jpg",
+"https://i.ibb.co/JwyPk70h/Month06.jpg",
+"https://i.ibb.co/YFWp3Js9/Month07.jpg",
+"https://i.ibb.co/HLp5phY0/Month08.jpg",
+"https://i.ibb.co/bRHyV6hP/Month09.jpg",
+"https://i.ibb.co/qFmFGJ90/Month10.jpg",
+"https://i.ibb.co/Q3P3qzRD/Month11.jpg",
+"https://i.ibb.co/DH2qC6v3/Month12.jpg"],
+      "name" : "FR Calendar"
+    }}
+  ],
+
+  "events": [
+  {"id":"ramadan_start","title":"Beginning of Ramadan","description":"Estimated Hijri date; subject to the official local moon-sighting announcement.","type":"islamic","countries":["all"],"hijri_month":9,"hijri_day":1},
+  {"id":"eid_fitr","title":"Eid al-Fitr","description":"The official date may vary by country depending on moon sighting.","type":"islamic","countries":["all"],"hijri_month":10,"hijri_day":1},
+  {"id":"eid_adha","title":"Eid al-Adha","description":"The official date may vary by country depending on the Hijri calendar.","type":"islamic","countries":["all"],"hijri_month":12,"hijri_day":10},
+  {"id":"usa_independence","title":"Independence Day","description":"United States Independence Day.","type":"national","countries":["United States"],"month":7,"day":4},
+  {"id":"usa_veterans","title":"Veterans Day","description":"A day to honor U.S. military veterans.","type":"national","countries":["United States"],"month":11,"day":11},
+  {"id":"canada_day","title":"Canada Day","description":"National holiday celebrating Canadian Confederation.","type":"national","countries":["Canada"],"month":7,"day":1},
+  {"id":"aus_day","title":"Australia Day","description":"Australia Day; a national public holiday observed on or around 26 January.","type":"national","countries":["Australia"],"month":1,"day":26},
+  {"id":"uk_christmas","title":"Christmas Day","description":"UK public holiday; substitute-day rules may apply when this date is on a weekend.","type":"national","countries":["United Kingdom"],"month":12,"day":25},
+  {"id":"uk_boxing_day","title":"Boxing Day","description":"UK public holiday; substitute-day rules may apply when this date is on a weekend.","type":"national","countries":["United Kingdom"],"month":12,"day":26}
+],
+
+  
+"offline_download": {
+  "enabled": true,
+  "rewarded_required": true,
+  "reward_type": "country_package",
+  "months_per_reward": 12
+},
+
+    "privacy_policy_url": "https://sites.google.com/view/mycalendardev/home",
+    "contact_us_email": "calendartools@outlook.com",
+    "ONESIGNAL_APP_ID" : "aae1932a-0fb0-47f5-b1bd-0e22a52a8663",
+    "onesignal_enabled": true,
+  "ads": {
+    "ONESIGNAL_APP_ID" : "aae1932a-0fb0-47f5-b1bd-0e22a52a8663",
+    "onesignal_enabled": true,
+    "status": true,
+    "main_ads": "admob",
+    "backup_ads": "none",
+    "enable_banner": true,
+    "enable_interstitial": true,
+    "enable_native": true,
+    "enable_rewarded": true,
+    "reward_ad_free_minutes": 10,
+    "banner_mode": "adaptive",
+    "enable_app_open": true,
+    "app_open_min_background_seconds": 30,
+    "app_open_min_interval_seconds": 120,
+    "interstitial_every_n_clicks": 3,
+    "min_seconds_between_interstitials": 120,
+    "native_home": true,
+    "native_menu": true,
+    "native_exit": true,
+    "ads_unit_id": {
+      "admob": {
+        "publisher_id": "pub-3940256099942544",
+        "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+        "banner_id": "ca-app-pub-3940256099942544/9214589741",
+        "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+        "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+        "native_id": "ca-app-pub-3940256099942544/2247696110"
+      },
+      "facebook": {
+        "banner_id": "IMG_16_9_APP_INSTALL#FACEBOOK_BANNER_PLACEMENT",
+        "interstitial_id": "IMG_16_9_APP_INSTALL#FACEBOOK_INTERSTITIAL_PLACEMENT",
+        "rewarded_id": "VID_HD_16_9_15S_APP_INSTALL#FACEBOOK_REWARDED_PLACEMENT",
+        "native_id": "IMG_16_9_APP_INSTALL#FACEBOOK_NATIVE_PLACEMENT"
+      },
+      "facebook_mediation": {
+        "banner_id": "ca-app-pub-XXXX/XXXX",
+        "interstitial_id": "ca-app-pub-XXXX/XXXX",
+        "rewarded_id": "ca-app-pub-XXXX/XXXX",
+        "native_id": "ca-app-pub-XXXX/XXXX"
+      }
+    }
+  }
+
+
+}
+
