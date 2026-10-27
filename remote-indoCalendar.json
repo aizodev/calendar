@@ -32,14 +32,18 @@
   ],
 
 "events": [
-  {"id":"ramadan_start","title":"بداية شهر رمضان","description":"موعد تقديري؛ يتحدد رسميًا حسب إعلان كل بلد.","type":"islamic","countries":["all"],"hijri_month":9,"hijri_day":1},
-  {"id":"eid_fitr","title":"عيد الفطر","description":"قد يختلف تاريخ العيد رسميًا حسب رؤية الهلال.","type":"islamic","countries":["all"],"hijri_month":10,"hijri_day":1},
-  {"id":"eid_adha","title":"عيد الأضحى","description":"موعد تقديري حتى إعلان الجهات الرسمية.","type":"islamic","countries":["all"],"hijri_month":12,"hijri_day":10},
-  {"id":"morocco_independence","title":"عيد الاستقلال","description":"ذكرى استقلال المغرب.","type":"national","countries":["المغرب"],"month":11,"day":18},
-  {"id":"algeria_revolution","title":"ذكرى الثورة الجزائرية","description":"إحياء ذكرى اندلاع ثورة أول نوفمبر.","type":"national","countries":["الجزائر"],"month":11,"day":1},
-  {"id":"saudi_national","title":"اليوم الوطني السعودي","description":"ذكرى توحيد المملكة العربية السعودية.","type":"national","countries":["السعودية"],"month":9,"day":23},
-  {"id":"egypt_revolution","title":"عيد ثورة 23 يوليو","description":"مناسبة وطنية مصرية.","type":"national","countries":["مصر"],"month":7,"day":23},
-  {"id":"palestine_independence","title":"ذكرى إعلان استقلال فلسطين","description":"ذكرى إعلان الاستقلال سنة 1988.","type":"national","countries":["فلسطين"],"month":11,"day":15}
+  {"id":"ramadan_start","title":"Awal Ramadan","description":"Tanggal Hijriah merupakan perkiraan. Awal puasa mengikuti pengumuman resmi pemerintah.","type":"islamic","countries":["all"],"hijri_month":9,"hijri_day":1},
+  {"id":"eid_fitr","title":"Idulfitri","description":"Tanggal resmi dapat berbeda sesuai penetapan pemerintah dan pengamatan hilal.","type":"islamic","countries":["all"],"hijri_month":10,"hijri_day":1},
+  {"id":"eid_adha","title":"Iduladha","description":"Tanggal Hijriah diperkirakan dan perlu dikonfirmasi melalui pengumuman resmi.","type":"islamic","countries":["all"],"hijri_month":12,"hijri_day":10},
+  {"id":"islamic_new_year","title":"Tahun Baru Islam","description":"Peringatan 1 Muharam; tanggal Masehi dapat disesuaikan menurut penetapan resmi.","type":"islamic","countries":["all"],"hijri_month":1,"hijri_day":1},
+  {"id":"maulid","title":"Maulid Nabi Muhammad SAW","description":"Peringatan 12 Rabiulawal; tanggal resmi mengikuti ketetapan pemerintah.","type":"islamic","countries":["all"],"hijri_month":3,"hijri_day":12},
+  {"id":"indonesia_new_year","title":"Tahun Baru Masehi","description":"Peringatan awal tahun kalender Masehi.","type":"national","countries":["Indonesia"],"month":1,"day":1},
+  {"id":"kartini","title":"Hari Kartini","description":"Peringatan kelahiran R.A. Kartini dan perjuangan emansipasi perempuan.","type":"national","countries":["Indonesia"],"month":4,"day":21},
+  {"id":"education","title":"Hari Pendidikan Nasional","description":"Peringatan pendidikan nasional Indonesia.","type":"national","countries":["Indonesia"],"month":5,"day":2},
+  {"id":"pancasila","title":"Hari Lahir Pancasila","description":"Peringatan lahirnya Pancasila pada 1 Juni.","type":"national","countries":["Indonesia"],"month":6,"day":1},
+  {"id":"independence","title":"Hari Kemerdekaan Republik Indonesia","description":"Peringatan Proklamasi Kemerdekaan Indonesia pada 17 Agustus 1945.","type":"national","countries":["Indonesia"],"month":8,"day":17},
+  {"id":"youth_pledge","title":"Hari Sumpah Pemuda","description":"Peringatan ikrar Sumpah Pemuda tahun 1928.","type":"national","countries":["Indonesia"],"month":10,"day":28},
+  {"id":"heroes","title":"Hari Pahlawan","description":"Peringatan perjuangan rakyat Indonesia pada 10 November.","type":"national","countries":["Indonesia"],"month":11,"day":10}
 ],
 
   
@@ -69,7 +73,7 @@
     "enable_app_open": true,
     "app_open_min_background_seconds": 30,
     "app_open_min_interval_seconds": 120,
-    "interstitial_every_n_clicks": 2,
+    "interstitial_every_n_clicks": 3,
     "min_seconds_between_interstitials": 120,
     "native_home": true,
     "native_menu": true,
