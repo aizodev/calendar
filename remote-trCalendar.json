@@ -1,62 +1,164 @@
 {
-  "Categories" : [
-    {"TR" : {
-      "image" : [ null, 
-"https://i.ibb.co/9kv5W2SQ/TR01.png",
-"https://i.ibb.co/N6HvZxb1/TR02.png",
-"https://i.ibb.co/h1MRX6Yv/TR03.png",
-"https://i.ibb.co/k25nb7qQ/TR04.png",
-"https://i.ibb.co/23BcCskP/TR05.png",
-"https://i.ibb.co/wrs0fQpc/TR06.png",
-"https://i.ibb.co/0jcNPJxP/TR07.png",
-"https://i.ibb.co/bxZTxbF/TR08.png",
-"https://i.ibb.co/mVvHNdzz/TR09.png",
-"https://i.ibb.co/yFWVbDhK/TR10.png",
-"https://i.ibb.co/FLsSv7mG/TR11.png",
-"https://i.ibb.co/GQBPyzkW/TR12.png"
-      ],
-      "logo" : ["https://i.ibb.co/QvHcfQBZ/Month01.jpg",
-"https://i.ibb.co/KYJFjd6/Month02.jpg",
-"https://i.ibb.co/9Hkcv0Bh/Month03.jpg",
-"https://i.ibb.co/Pqk7Nk0/Month04.jpg",
-"https://i.ibb.co/0j2YHZwr/Month05.jpg",
-"https://i.ibb.co/TdMj6dQ/Month06.jpg",
-"https://i.ibb.co/B2CPtJrQ/Month07.jpg",
-"https://i.ibb.co/n8gqjN1m/Month08.jpg",
-"https://i.ibb.co/FbM89gb5/Month09.jpg",
-"https://i.ibb.co/mVGrRZbm/Month10.jpg",
-"https://i.ibb.co/M5tYqQDZ/Month11.jpg",
-"https://i.ibb.co/35bnSjtd/Month12.jpg"],
-      "name" : "Turkey Calendar"
-    }}
+  "Categories": [
+    {
+      "TR": {
+        "image": [
+          null,
+          "https://i.ibb.co/9kv5W2SQ/TR01.png",
+          "https://i.ibb.co/N6HvZxb1/TR02.png",
+          "https://i.ibb.co/h1MRX6Yv/TR03.png",
+          "https://i.ibb.co/k25nb7qQ/TR04.png",
+          "https://i.ibb.co/23BcCskP/TR05.png",
+          "https://i.ibb.co/wrs0fQpc/TR06.png",
+          "https://i.ibb.co/0jcNPJxP/TR07.png",
+          "https://i.ibb.co/bxZTxbF/TR08.png",
+          "https://i.ibb.co/mVvHNdzz/TR09.png",
+          "https://i.ibb.co/yFWVbDhK/TR10.png",
+          "https://i.ibb.co/FLsSv7mG/TR11.png",
+          "https://i.ibb.co/GQBPyzkW/TR12.png"
+        ],
+        "logo": [
+          "https://i.ibb.co/QvHcfQBZ/Month01.jpg",
+          "https://i.ibb.co/KYJFjd6/Month02.jpg",
+          "https://i.ibb.co/9Hkcv0Bh/Month03.jpg",
+          "https://i.ibb.co/Pqk7Nk0/Month04.jpg",
+          "https://i.ibb.co/0j2YHZwr/Month05.jpg",
+          "https://i.ibb.co/TdMj6dQ/Month06.jpg",
+          "https://i.ibb.co/B2CPtJrQ/Month07.jpg",
+          "https://i.ibb.co/n8gqjN1m/Month08.jpg",
+          "https://i.ibb.co/FbM89gb5/Month09.jpg",
+          "https://i.ibb.co/mVGrRZbm/Month10.jpg",
+          "https://i.ibb.co/M5tYqQDZ/Month11.jpg",
+          "https://i.ibb.co/35bnSjtd/Month12.jpg"
+        ],
+        "name": "Türkiye Takvimi"
+      }
+    }
   ],
-   
-
   "events": [
-  {"id":"ramadan_start","title":"بداية شهر رمضان","description":"موعد تقديري؛ يتحدد رسميًا حسب إعلان كل بلد.","type":"islamic","countries":["all"],"hijri_month":9,"hijri_day":1},
-  {"id":"eid_fitr","title":"عيد الفطر","description":"قد يختلف تاريخ العيد رسميًا حسب رؤية الهلال.","type":"islamic","countries":["all"],"hijri_month":10,"hijri_day":1},
-  {"id":"eid_adha","title":"عيد الأضحى","description":"موعد تقديري حتى إعلان الجهات الرسمية.","type":"islamic","countries":["all"],"hijri_month":12,"hijri_day":10},
-  {"id":"morocco_independence","title":"عيد الاستقلال","description":"ذكرى استقلال المغرب.","type":"national","countries":["المغرب"],"month":11,"day":18},
-  {"id":"algeria_revolution","title":"ذكرى الثورة الجزائرية","description":"إحياء ذكرى اندلاع ثورة أول نوفمبر.","type":"national","countries":["الجزائر"],"month":11,"day":1},
-  {"id":"saudi_national","title":"اليوم الوطني السعودي","description":"ذكرى توحيد المملكة العربية السعودية.","type":"national","countries":["السعودية"],"month":9,"day":23},
-  {"id":"egypt_revolution","title":"عيد ثورة 23 يوليو","description":"مناسبة وطنية مصرية.","type":"national","countries":["مصر"],"month":7,"day":23},
-  {"id":"palestine_independence","title":"ذكرى إعلان استقلال فلسطين","description":"ذكرى إعلان الاستقلال سنة 1988.","type":"national","countries":["فلسطين"],"month":11,"day":15}
-],
-
-  
-"offline_download": {
-  "enabled": true,
-  "rewarded_required": true,
-  "reward_type": "country_package",
-  "months_per_reward": 12
-},
-
-    "privacy_policy_url": "https://sites.google.com/view/mycalendardev/home",
-    "contact_us_email": "calendartools@outlook.com",
-    "ONESIGNAL_APP_ID" : "fd5decb1-733f-4e79-a7f7-eedbee3bf867",
-    "onesignal_enabled": true,
+    {
+      "id": "ramadan_start",
+      "title": "Ramazan ayının başlangıcı",
+      "description": "Hicrî hesaplama yaklaşık olup resmî takvime göre farklılık gösterebilir.",
+      "type": "islamic",
+      "countries": [
+        "all"
+      ],
+      "hijri_month": 9,
+      "hijri_day": 1
+    },
+    {
+      "id": "eid_fitr",
+      "title": "Ramazan Bayramı",
+      "description": "Tarih resmî takvime göre doğrulanmalıdır.",
+      "type": "islamic",
+      "countries": [
+        "all"
+      ],
+      "hijri_month": 10,
+      "hijri_day": 1
+    },
+    {
+      "id": "eid_adha",
+      "title": "Kurban Bayramı",
+      "description": "Tarih resmî takvime göre doğrulanmalıdır.",
+      "type": "islamic",
+      "countries": [
+        "all"
+      ],
+      "hijri_month": 12,
+      "hijri_day": 10
+    },
+    {
+      "id": "tr_republic_day",
+      "title": "Cumhuriyet Bayramı",
+      "description": "Türkiye Cumhuriyeti’nin ilanının yıldönümü.",
+      "type": "national",
+      "countries": [
+        "Türkiye"
+      ],
+      "month": 10,
+      "day": 29
+    },
+    {
+      "id": "tr_children_day",
+      "title": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "description": "Türkiye Büyük Millet Meclisinin açılış yıldönümü.",
+      "type": "national",
+      "countries": [
+        "Türkiye"
+      ],
+      "month": 4,
+      "day": 23
+    },
+    {
+      "id": "tr_youth_day",
+      "title": "Atatürk’ü Anma, Gençlik ve Spor Bayramı",
+      "description": "19 Mayıs anma ve bayram günü.",
+      "type": "national",
+      "countries": [
+        "Türkiye"
+      ],
+      "month": 5,
+      "day": 19
+    },
+    {
+      "id": "tr_victory_day",
+      "title": "Zafer Bayramı",
+      "description": "30 Ağustos Zafer Bayramı.",
+      "type": "national",
+      "countries": [
+        "Türkiye"
+      ],
+      "month": 8,
+      "day": 30
+    },
+    {
+      "id": "tr_democracy_day",
+      "title": "Demokrasi ve Millî Birlik Günü",
+      "description": "15 Temmuz anma günü.",
+      "type": "national",
+      "countries": [
+        "Türkiye"
+      ],
+      "month": 7,
+      "day": 15
+    },
+    {
+      "id": "tr_labor_day",
+      "title": "Emek ve Dayanışma Günü",
+      "description": "1 Mayıs resmî tatili.",
+      "type": "national",
+      "countries": [
+        "Türkiye"
+      ],
+      "month": 5,
+      "day": 1
+    },
+    {
+      "id": "tr_new_year",
+      "title": "Yılbaşı",
+      "description": "Yeni yılın ilk günü.",
+      "type": "national",
+      "countries": [
+        "Türkiye"
+      ],
+      "month": 1,
+      "day": 1
+    }
+  ],
+  "offline_download": {
+    "enabled": true,
+    "rewarded_required": true,
+    "reward_type": "country_package",
+    "months_per_reward": 12
+  },
+  "privacy_policy_url": "https://sites.google.com/view/mycalendardev/home",
+  "contact_us_email": "calendartools@outlook.com",
+  "ONESIGNAL_APP_ID": "fd5decb1-733f-4e79-a7f7-eedbee3bf867",
+  "onesignal_enabled": true,
   "ads": {
-    "ONESIGNAL_APP_ID" : "fd5decb1-733f-4e79-a7f7-eedbee3bf867",
+    "ONESIGNAL_APP_ID": "fd5decb1-733f-4e79-a7f7-eedbee3bf867",
     "onesignal_enabled": true,
     "status": true,
     "main_ads": "admob",
@@ -98,6 +200,4 @@
       }
     }
   }
-
-
 }
