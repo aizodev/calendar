@@ -32,9 +32,13 @@
   ],
 
   "events": [
-  {"id":"ramadan_start","title":"Beginning of Ramadan","description":"Estimated Hijri date; subject to the official local moon-sighting announcement.","type":"islamic","countries":["all"],"hijri_month":9,"hijri_day":1},
-  {"id":"eid_fitr","title":"Eid al-Fitr","description":"The official date may vary by country depending on moon sighting.","type":"islamic","countries":["all"],"hijri_month":10,"hijri_day":1},
-  {"id":"eid_adha","title":"Eid al-Adha","description":"The official date may vary by country depending on the Hijri calendar.","type":"islamic","countries":["all"],"hijri_month":12,"hijri_day":10},
+  {"id":"ramadan_start","title":"Début du ramadan","description":"Date hégirienne estimée, à confirmer par l’annonce officielle de l’observation lunaire.","type":"islamic","countries":["all"],"hijri_month":9,"hijri_day":1},
+  {"id":"eid_fitr","title":"Aïd el-Fitr","description":"La date officielle peut varier selon le pays et l’observation lunaire.","type":"islamic","countries":["all"],"hijri_month":10,"hijri_day":1},
+  {"id":"eid_adha","title":"Aïd al-Adha","description":"Date estimée selon le calendrier hégirien, à confirmer localement.","type":"islamic","countries":["all"],"hijri_month":12,"hijri_day":10},
+  {"id":"fr_labour","title":"Fête du Travail","description":"Jour férié national en France.","type":"national","countries":["France"],"month":5,"day":1},
+  {"id":"fr_victory","title":"Victoire du 8 mai 1945","description":"Commémoration de la fin de la Seconde Guerre mondiale en Europe.","type":"national","countries":["France"],"month":5,"day":8},
+  {"id":"fr_national","title":"Fête nationale française","description":"Fête nationale du 14 juillet.","type":"national","countries":["France"],"month":7,"day":14},
+  {"id":"fr_armistice","title":"Armistice de 1918","description":"Commémoration du 11 novembre.","type":"national","countries":["France"],"month":11,"day":11},
   {"id":"usa_independence","title":"Independence Day","description":"United States Independence Day.","type":"national","countries":["United States"],"month":7,"day":4},
   {"id":"usa_veterans","title":"Veterans Day","description":"A day to honor U.S. military veterans.","type":"national","countries":["United States"],"month":11,"day":11},
   {"id":"canada_day","title":"Canada Day","description":"National holiday celebrating Canadian Confederation.","type":"national","countries":["Canada"],"month":7,"day":1},
@@ -101,4 +105,3 @@
 
 
 }
-
