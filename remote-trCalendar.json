@@ -1,0 +1,103 @@
+{
+  "Categories" : [
+    {"TR" : {
+      "image" : [ null, 
+"https://i.ibb.co/9kv5W2SQ/TR01.png",
+"https://i.ibb.co/N6HvZxb1/TR02.png",
+"https://i.ibb.co/h1MRX6Yv/TR03.png",
+"https://i.ibb.co/k25nb7qQ/TR04.png",
+"https://i.ibb.co/23BcCskP/TR05.png",
+"https://i.ibb.co/wrs0fQpc/TR06.png",
+"https://i.ibb.co/0jcNPJxP/TR07.png",
+"https://i.ibb.co/bxZTxbF/TR08.png",
+"https://i.ibb.co/mVvHNdzz/TR09.png",
+"https://i.ibb.co/yFWVbDhK/TR10.png",
+"https://i.ibb.co/FLsSv7mG/TR11.png",
+"https://i.ibb.co/GQBPyzkW/TR12.png"
+      ],
+      "logo" : ["https://i.ibb.co/QvHcfQBZ/Month01.jpg",
+"https://i.ibb.co/KYJFjd6/Month02.jpg",
+"https://i.ibb.co/9Hkcv0Bh/Month03.jpg",
+"https://i.ibb.co/Pqk7Nk0/Month04.jpg",
+"https://i.ibb.co/0j2YHZwr/Month05.jpg",
+"https://i.ibb.co/TdMj6dQ/Month06.jpg",
+"https://i.ibb.co/B2CPtJrQ/Month07.jpg",
+"https://i.ibb.co/n8gqjN1m/Month08.jpg",
+"https://i.ibb.co/FbM89gb5/Month09.jpg",
+"https://i.ibb.co/mVGrRZbm/Month10.jpg",
+"https://i.ibb.co/M5tYqQDZ/Month11.jpg",
+"https://i.ibb.co/35bnSjtd/Month12.jpg"],
+      "name" : "Turkey Calendar"
+    }}
+  ],
+   
+
+  "events": [
+  {"id":"ramadan_start","title":"بداية شهر رمضان","description":"موعد تقديري؛ يتحدد رسميًا حسب إعلان كل بلد.","type":"islamic","countries":["all"],"hijri_month":9,"hijri_day":1},
+  {"id":"eid_fitr","title":"عيد الفطر","description":"قد يختلف تاريخ العيد رسميًا حسب رؤية الهلال.","type":"islamic","countries":["all"],"hijri_month":10,"hijri_day":1},
+  {"id":"eid_adha","title":"عيد الأضحى","description":"موعد تقديري حتى إعلان الجهات الرسمية.","type":"islamic","countries":["all"],"hijri_month":12,"hijri_day":10},
+  {"id":"morocco_independence","title":"عيد الاستقلال","description":"ذكرى استقلال المغرب.","type":"national","countries":["المغرب"],"month":11,"day":18},
+  {"id":"algeria_revolution","title":"ذكرى الثورة الجزائرية","description":"إحياء ذكرى اندلاع ثورة أول نوفمبر.","type":"national","countries":["الجزائر"],"month":11,"day":1},
+  {"id":"saudi_national","title":"اليوم الوطني السعودي","description":"ذكرى توحيد المملكة العربية السعودية.","type":"national","countries":["السعودية"],"month":9,"day":23},
+  {"id":"egypt_revolution","title":"عيد ثورة 23 يوليو","description":"مناسبة وطنية مصرية.","type":"national","countries":["مصر"],"month":7,"day":23},
+  {"id":"palestine_independence","title":"ذكرى إعلان استقلال فلسطين","description":"ذكرى إعلان الاستقلال سنة 1988.","type":"national","countries":["فلسطين"],"month":11,"day":15}
+],
+
+  
+"offline_download": {
+  "enabled": true,
+  "rewarded_required": true,
+  "reward_type": "country_package",
+  "months_per_reward": 12
+},
+
+    "privacy_policy_url": "https://sites.google.com/view/mycalendardev/home",
+    "contact_us_email": "calendartools@outlook.com",
+    "ONESIGNAL_APP_ID" : "fd5decb1-733f-4e79-a7f7-eedbee3bf867",
+    "onesignal_enabled": true,
+  "ads": {
+    "ONESIGNAL_APP_ID" : "fd5decb1-733f-4e79-a7f7-eedbee3bf867",
+    "onesignal_enabled": true,
+    "status": true,
+    "main_ads": "admob",
+    "backup_ads": "none",
+    "enable_banner": true,
+    "enable_interstitial": true,
+    "enable_native": true,
+    "enable_rewarded": true,
+    "reward_ad_free_minutes": 10,
+    "banner_mode": "adaptive",
+    "enable_app_open": true,
+    "app_open_min_background_seconds": 30,
+    "app_open_min_interval_seconds": 120,
+    "interstitial_every_n_clicks": 2,
+    "min_seconds_between_interstitials": 120,
+    "native_home": true,
+    "native_menu": true,
+    "native_exit": true,
+    "ads_unit_id": {
+      "admob": {
+        "publisher_id": "pub-3940256099942544",
+        "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+        "banner_id": "ca-app-pub-3940256099942544/9214589741",
+        "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+        "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+        "native_id": "ca-app-pub-3940256099942544/2247696110"
+      },
+      "facebook": {
+        "banner_id": "IMG_16_9_APP_INSTALL#FACEBOOK_BANNER_PLACEMENT",
+        "interstitial_id": "IMG_16_9_APP_INSTALL#FACEBOOK_INTERSTITIAL_PLACEMENT",
+        "rewarded_id": "VID_HD_16_9_15S_APP_INSTALL#FACEBOOK_REWARDED_PLACEMENT",
+        "native_id": "IMG_16_9_APP_INSTALL#FACEBOOK_NATIVE_PLACEMENT"
+      },
+      "facebook_mediation": {
+        "banner_id": "ca-app-pub-XXXX/XXXX",
+        "interstitial_id": "ca-app-pub-XXXX/XXXX",
+        "rewarded_id": "ca-app-pub-XXXX/XXXX",
+        "native_id": "ca-app-pub-XXXX/XXXX"
+      }
+    }
+  }
+
+
+}
