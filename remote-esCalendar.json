@@ -13,7 +13,7 @@
 "https://i.ibb.co/VYpXKyWn/ES09.png",
 "https://i.ibb.co/ppCcYY9/ES10.png",
 "https://i.ibb.co/jvdLNTK2/ES11.png",
-"https://i.ibb.co/tPCJLXrB/ES12.png "
+"https://i.ibb.co/tPCJLXrB/ES12.png"
    ],
       "logo" : [
 "https://i.ibb.co/C5dqK1Ww/Month01.jpg",
@@ -35,15 +35,18 @@
 
 
   "events": [
-  {"id":"ramadan_start","title":"Beginning of Ramadan","description":"Estimated Hijri date; subject to the official local moon-sighting announcement.","type":"islamic","countries":["all"],"hijri_month":9,"hijri_day":1},
-  {"id":"eid_fitr","title":"Eid al-Fitr","description":"The official date may vary by country depending on moon sighting.","type":"islamic","countries":["all"],"hijri_month":10,"hijri_day":1},
-  {"id":"eid_adha","title":"Eid al-Adha","description":"The official date may vary by country depending on the Hijri calendar.","type":"islamic","countries":["all"],"hijri_month":12,"hijri_day":10},
-  {"id":"usa_independence","title":"Independence Day","description":"United States Independence Day.","type":"national","countries":["United States"],"month":7,"day":4},
-  {"id":"usa_veterans","title":"Veterans Day","description":"A day to honor U.S. military veterans.","type":"national","countries":["United States"],"month":11,"day":11},
-  {"id":"canada_day","title":"Canada Day","description":"National holiday celebrating Canadian Confederation.","type":"national","countries":["Canada"],"month":7,"day":1},
-  {"id":"aus_day","title":"Australia Day","description":"Australia Day; a national public holiday observed on or around 26 January.","type":"national","countries":["Australia"],"month":1,"day":26},
-  {"id":"uk_christmas","title":"Christmas Day","description":"UK public holiday; substitute-day rules may apply when this date is on a weekend.","type":"national","countries":["United Kingdom"],"month":12,"day":25},
-  {"id":"uk_boxing_day","title":"Boxing Day","description":"UK public holiday; substitute-day rules may apply when this date is on a weekend.","type":"national","countries":["United Kingdom"],"month":12,"day":26}
+  {"id":"ramadan_start","title":"Inicio de Ramadán","description":"Fecha islámica estimada; sujeta al anuncio oficial de observación lunar.","type":"islamic","countries":["all"],"hijri_month":9,"hijri_day":1},
+  {"id":"eid_fitr","title":"Aíd al-Fitr","description":"La fecha oficial puede variar según la observación lunar.","type":"islamic","countries":["all"],"hijri_month":10,"hijri_day":1},
+  {"id":"eid_adha","title":"Aíd al-Adha","description":"Fecha estimada del calendario islámico, pendiente de confirmación local.","type":"islamic","countries":["all"],"hijri_month":12,"hijri_day":10},
+  {"id":"es_new_year","title":"Año Nuevo","description":"Celebración del primer día del año.","type":"national","countries":["España"],"month":1,"day":1},
+  {"id":"es_epiphany","title":"Día de Reyes","description":"Epifanía del Señor, celebrada el 6 de enero.","type":"national","countries":["España"],"month":1,"day":6},
+  {"id":"es_labour","title":"Fiesta del Trabajo","description":"Conmemoración del Día Internacional de los Trabajadores.","type":"national","countries":["España"],"month":5,"day":1},
+  {"id":"es_assumption","title":"Asunción de la Virgen","description":"Celebración tradicional del 15 de agosto.","type":"national","countries":["España"],"month":8,"day":15},
+  {"id":"es_national","title":"Fiesta Nacional de España","description":"Fiesta nacional del 12 de octubre.","type":"national","countries":["España"],"month":10,"day":12},
+  {"id":"es_all_saints","title":"Todos los Santos","description":"Conmemoración del 1 de noviembre.","type":"national","countries":["España"],"month":11,"day":1},
+  {"id":"es_constitution","title":"Día de la Constitución","description":"Aniversario de la Constitución española de 1978.","type":"national","countries":["España"],"month":12,"day":6},
+  {"id":"es_immaculate","title":"Inmaculada Concepción","description":"Celebración tradicional del 8 de diciembre.","type":"national","countries":["España"],"month":12,"day":8},
+  {"id":"es_christmas","title":"Navidad","description":"Día de Navidad, 25 de diciembre.","type":"national","countries":["España"],"month":12,"day":25}
 ],
 
   
