@@ -189,10 +189,10 @@
         "native_id": "ca-app-pub-3940256099942544/2247696110"
       },
       "facebook": {
-        "banner_id": "IMG_16_9_APP_INSTALL#FACEBOOK_BANNER_PLACEMENT",
-        "interstitial_id": "IMG_16_9_APP_INSTALL#FACEBOOK_INTERSTITIAL_PLACEMENT",
-        "rewarded_id": "VID_HD_16_9_15S_APP_INSTALL#FACEBOOK_REWARDED_PLACEMENT",
-        "native_id": "IMG_16_9_APP_INSTALL#FACEBOOK_NATIVE_PLACEMENT"
+        "banner_id": "818963239830587_1101265354933706",
+        "interstitial_id": "818963239830587_818963873163857",
+        "rewarded_id": "818963239830587_1656387629421473",
+        "native_id": "818963239830587_1656387369421499"
       },
       "facebook_mediation": {
         "banner_id": "ca-app-pub-XXXX/XXXX",
