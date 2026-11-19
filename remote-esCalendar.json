@@ -84,11 +84,11 @@
     "ads_unit_id": {
       "admob": {
         "publisher_id": "pub-3940256099942544",
-        "app_open_id": "ca-app-pub-3940256099942544/9257395921",
-        "banner_id": "ca-app-pub-3940256099942544/9214589741",
-        "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-        "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
-        "native_id": "ca-app-pub-3940256099942544/2247696110"
+        "app_open_id": "ca-app-pub-7049394440808669/1129027955",
+        "banner_id": "ca-app-pub-7049394440808669/5118254755",
+        "interstitial_id": "ca-app-pub-7049394440808669/2442109624",
+        "rewarded_id": "ca-app-pub-7049394440808669/6353434472",
+        "native_id": "ca-app-pub-7049394440808669/2492091414"
       },
       "facebook": {
         "banner_id": "312196804523844_585534290523426",
@@ -97,10 +97,10 @@
         "native_id": "312196804523844_1124019213341595"
       },
       "facebook_mediation": {
-        "banner_id": "ca-app-pub-XXXX/XXXX",
-        "interstitial_id": "ca-app-pub-XXXX/XXXX",
-        "rewarded_id": "ca-app-pub-XXXX/XXXX",
-        "native_id": "ca-app-pub-XXXX/XXXX"
+        "banner_id": "ca-app-pub-7049394440808669/5118254755",
+        "interstitial_id": "ca-app-pub-7049394440808669/2442109624",
+        "rewarded_id": "ca-app-pub-7049394440808669/6353434472",
+        "native_id": "ca-app-pub-7049394440808669/2492091414"
       }
     }
   }
